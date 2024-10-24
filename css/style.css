@@ -1,7 +1,31 @@
+* {
+    font-family: monospace;
+}
 body {
     background-color: black;
+    font-size: 22px;
 }
 p{
     color: purple;
-    font-size: 64px;
+    font-size: 22px;
+}
+.highlight{
+    color: orange;
+    text-transform: uppercase;
+    background-color: gold;
+}
+h1{
+    color: pink;
+}
+h4{
+    color: rgb(183, 0, 255);
+}
+.test {
+    color: gray;
+}
+#sub_header {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    color: aliceblue;
 }
